@@ -26,6 +26,8 @@
  
  Figure 2:
  
- 
+ ![Figure 2](https://github.com/DataNerd2021/data-engineering-portfolio/blob/main/dbt%20Data%20Model.jpg)
  
  Figure 3:
+ 
+ ![Figure 3](https://github.com/DataNerd2021/data-engineering-portfolio/blob/main/dbt%20Semantic%20Layer.jpg
