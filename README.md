@@ -22,7 +22,7 @@
  
  Figure 1:
  
- ![Figure 1](
+ ![Figure 1](https://github.com/DataNerd2021/data-engineering-portfolio/blob/main/OLTP%20Pipeline.jpg)
  
  Figure 2:
  
